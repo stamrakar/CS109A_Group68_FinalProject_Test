@@ -1,3 +1,8 @@
+---
+nav_include: 2
+title: EDA
+notebook: olives-eda.ipynb
+---
 
 # EDA
 
